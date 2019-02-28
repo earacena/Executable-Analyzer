@@ -2,12 +2,8 @@
 
 int main()
 {
-        int a = 1;
-        int b = 2;
 
-        a = a + b;
-
-        puts("test");
+        printf("Hello World!\n");
 
         return 0;
 }

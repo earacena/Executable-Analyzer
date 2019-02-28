@@ -1,7 +1,7 @@
 CC   = gcc
 HEAD = 
 OBJ  = dec.o
-CLEAN= shred -zun 10
+CLEAN= rm -rf 
 EXEC = dec
 
 
