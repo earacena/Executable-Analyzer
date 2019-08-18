@@ -20,7 +20,7 @@ Command-line program that allows viewing the content of registers and memory all
  
 ## Description:
 
-  The program allows the contents of the processor's registers and allocated memory addresses to be viewed during the execution of the "tracee" executable. Has a C version in top-level repo directory, and C++ version. Made using the ptrace manual on Linux.
+  The program allows the contents of the processor's registers and allocated memory addresses to be viewed during the execution of the "tracee" executable. Has a C version in top-level repo directory, and C++ version. Used ptrace docs as reference.
 
 ## Build instructions
 
