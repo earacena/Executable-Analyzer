@@ -1,8 +1,8 @@
 /*
  *      Filename:       Logger.cpp
- *      Author:         Emanuel Aracena <earacenadev@gmail.com>
- *      Description:`   Implementation of Logger class. Used for handling return values and error
- *                              codes.
+ *      Author:         Emanuel Aracena
+ *      Description:    Implementation of Logger class. Used for handling return values and error
+ *                      codes.
  */
 
 #include "Logger.h"

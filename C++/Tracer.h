@@ -1,7 +1,7 @@
 /*
  *      Filename:       Tracer.h
- *      Author:         Emanuel Aracena <earacenadev@gmail.com>
- *      Description:`   Interface of Tracer class.
+ *      Author:         Emanuel Aracena
+ *      Description:    Interface of Tracer class.
  */
 
 #ifndef DEC_H

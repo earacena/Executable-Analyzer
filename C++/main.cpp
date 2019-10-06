@@ -1,14 +1,13 @@
 /*
  *      Filename:       main.cpp
- *      Author:         Emanuel Aracena <earacenadev@gmail.com>
+ *      Author:         Emanuel Aracena
  *      Description:    Main routine file.
- * 	Date Created:	September 9, 2018
+ * 	    Date Created:	  September 9, 2018
  */
 
 #include "Tracer.h"
 
-/*              Print mini help listing.
- */
+// Print mini help listing.
 void print_usage()
 {
         std::cout << "./dec [EXECUTABLE NAME]" << std::endl;

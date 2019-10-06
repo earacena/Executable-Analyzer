@@ -1,7 +1,7 @@
 /*
  *      Filename:       Tracer.cpp
- *      Author:         Emanuel Aracena <earacenadev@gmail.com>
- *      Description:`   Implementation of Tracer class.
+ *      Author:         Emanuel Aracena 
+ *      Description:    Implementation of Tracer class.
  */
 
 #include "Tracer.h"

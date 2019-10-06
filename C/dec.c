@@ -1,7 +1,6 @@
 /*      
- *      C debugger (DEC)
- *      Author: Emanuel Aracena <earacenadev@gmail.com>
- *      Date Created: September 8, 2018
+ *      C process analyzer (dec)
+ *      Author: Emanuel Aracena
  */
 #include <errno.h>
 #include <inttypes.h>
