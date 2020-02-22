@@ -1,6 +1,6 @@
 /*
  *      Filename:       main.cpp
- *      Author:         Emanuel Aracena
+ *      Author:         Emanuel Aracena Beriguete
  *      Description:    Main routine file.
  * 	    Date Created:	  September 9, 2018
  */
