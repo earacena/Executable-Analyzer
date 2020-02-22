@@ -1,6 +1,6 @@
 #####################################
 #  Makefile for Executable-Analyzer #
-#  Author: Emanuel Aracena          #
+#  Author: Emanuel Aracena Beriguete#
 #  Target platform(s): Linux 64-bit #
 #####################################
 
