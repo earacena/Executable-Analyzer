@@ -1,6 +1,6 @@
 /*
  *      Filename:       Logger.h
- *      Author:         Emanuel Aracena
+ *      Author:         Emanuel Aracena Beriguete
  *      Description:    Interface of Logger class. Used for handling return values and error
  *                      codes.
  */
