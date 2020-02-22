@@ -1,6 +1,6 @@
 /*
  *      Filename:       Tracer.h
- *      Author:         Emanuel Aracena
+ *      Author:         Emanuel Aracena Beriguete
  *      Description:    Interface of Tracer class.
  */
 
