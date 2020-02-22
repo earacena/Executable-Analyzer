@@ -1,6 +1,6 @@
 /*      
  *      C process analyzer (dec)
- *      Author: Emanuel Aracena
+ *      Author: Emanuel Aracena Beriguete
  */
 #include <errno.h>
 #include <inttypes.h>
