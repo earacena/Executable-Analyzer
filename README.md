@@ -3,7 +3,7 @@ Command-line program that allows viewing the content of registers and memory all
 
 ## Author(s)
 
-  Emanuel Aracena
+  Emanuel Aracena Beriguete
 
 ## Date Created
 
