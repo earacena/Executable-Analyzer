@@ -1,6 +1,6 @@
 /*
  *      Filename:       Tracer.cpp
- *      Author:         Emanuel Aracena 
+ *      Author:         Emanuel Aracena Beriguete
  *      Description:    Implementation of Tracer class.
  */
 
