@@ -1,6 +1,6 @@
 /*
  *      Filename:       Logger.cpp
- *      Author:         Emanuel Aracena
+ *      Author:         Emanuel Aracena Beriguete
  *      Description:    Implementation of Logger class. Used for handling return values and error
  *                      codes.
  */
